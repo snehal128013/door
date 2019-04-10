@@ -1,1 +1,2 @@
-![trivas](https://travis-ci.org/snehal128013/door.svg?branch=master)
+# door
+![travis](https://travis-ci.org/snehal128013/door.svg?branch=master)
