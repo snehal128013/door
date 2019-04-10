@@ -1,9 +1,8 @@
 language: c
 sudo: false # only for faster builds
 compiler: 
-
 - clang
- - gcc
- script:
- - gcc -o fact fact.c // we can use gcc instead of clang too
- - ./fact
+- gcc
+script:
+- gcc -o fact fact.c // we can use gcc instead of clang too
+- ./fact
